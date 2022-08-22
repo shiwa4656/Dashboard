@@ -1,0 +1,15 @@
+.grid-container{
+    background-color: orange;
+    color: black;
+    display: grid;
+    border: solid blue 2px;
+    grid-template-columns: 75px 75px 75px 75px;
+    height: 200px;
+    grid-template-rows: 75px 75px;
+    gap: 32px;    
+}
+.grid-items{
+    border: solid green 2px;
+    background-color: black;
+    color: wheat;
+}
